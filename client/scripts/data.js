@@ -15,6 +15,11 @@ var movieData = [
     rating: 8
   },
   {
+    title: 'South Park: Bigger, Longer, and Uncut',
+    year: 2001,
+    rating: 10
+  },
+  {
     title: 'Time Bandits',
     year: 1981,
     rating: 7
